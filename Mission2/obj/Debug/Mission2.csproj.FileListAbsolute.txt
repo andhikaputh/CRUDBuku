@@ -1,0 +1,14 @@
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\bin\Debug\Mission2.exe.config
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\bin\Debug\Mission2.exe
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\bin\Debug\Mission2.pdb
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.csproj.AssemblyReference.cache
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.Form1.resources
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.InputDataBuku.resources
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.OutputDataBuku.resources
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.PencarianDataBuku.resources
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.PenghapusanDataBuku.resources
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.Properties.Resources.resources
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.csproj.GenerateResource.cache
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.csproj.CoreCompileInputs.cache
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.exe
+C:\Users\ANDHIKA\source\repos\Mission2\Mission2\obj\Debug\Mission2.pdb
